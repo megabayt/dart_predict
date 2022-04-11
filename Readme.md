@@ -1,6 +1,9 @@
-#predict
-
-[![Build Status](https://secure.travis-ci.org/jbpringuey/predict.png)](http://travis-ci.org/jbpringuey/predict)
+# dart-predict
+[![Pub Version](https://img.shields.io/pub/v/dart_predict?logo=dart&logoColor=white)](https://pub.dev/packages/dart_predict/)
+[![Dart SDK Version](https://badgen.net/pub/sdk-version/dart_predict)](https://pub.dev/packages/dart_predict/)
+[![License](https://img.shields.io/github/license/megabayt/dart_predict)](https://raw.githubusercontent.com/megabayt/dart_predict/master/LICENSE)
+[![Pub popularity](https://badgen.net/pub/popularity/dart_predict)](https://pub.dev/packages/dart_predict/score)
+[![GitHub popularity](https://img.shields.io/github/stars/megabayt/dart_predict?logo=github&logoColor=white)](https://github.com/megabayt/dart_predict/stargazers)
 
 A simple prediction module that implements:
 
