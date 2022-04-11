@@ -2,9 +2,9 @@ name: dart_predict
 description: Dart port of js predict library https://github.com/jbpringuey/predict
 repository: https://github.com/megabayt/dart_predict
 
-version: 1.0.0
+version: 1.0.2
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
 dependencies: 
-  satellite_dart: ^1.0.1
+  satellite_dart: ^1.0.2

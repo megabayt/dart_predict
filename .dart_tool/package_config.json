@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "satellite_dart",
+      "rootUri": "file:///Users/artemiy/.pub-cache/hosted/pub.dartlang.org/satellite_dart-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dart_predict",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2022-04-11T15:28:42.485536Z",
+  "generator": "pub",
+  "generatorVersion": "2.16.2"
+}
